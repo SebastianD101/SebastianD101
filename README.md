@@ -1,5 +1,8 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Sebastian DSouza. I am a computer science student at Purdue University. I am from Chicago, IL currently studying in West Lafayette, IN. Currently pursuing internships in software engineering.
+My name is Sebastian DSouza and I am
+- a computer science student at Purdue University. 
+- from Chicago, currently studying in West Lafayette, IN. 
+- actively pursuing internships in software engineering.
 
 ## 🔔 My GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/SebastianD101?template=classic&languages=1&lines=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
