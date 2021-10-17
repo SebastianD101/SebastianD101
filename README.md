@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Sebastian DSouza and I am
+My name is Sebastian D and I am
 - a computer science student at Purdue University. 
 - from Chicago, currently studying in West Lafayette, IN. 
 - actively pursuing internships in software engineering.
